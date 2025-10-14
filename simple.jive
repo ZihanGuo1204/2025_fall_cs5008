@@ -1,0 +1,5 @@
+fn main() -> int
+{
+    // The main function
+    return 42
+}
